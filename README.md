@@ -30,57 +30,52 @@ src="https://github-readme-stats.vercel.app/api?username=bel-bg&theme=graywhite&
 
 <tr>
 <td align="center" width="20%">
-
-<span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<span><b><center></center></b></span> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 </td>
 
-<td align="center" largeur="20%">
-<span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/redux.png"/>
 </td>
 
 <td align="center" width="20%">
-
-<span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<span><b><center></center></b></span> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 </td>
 
 <td align="center" width="20%">
-
-<span><b><center></center></b></span>
-
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" largeur="20%">
-<span><b><center></center></b></span>
-
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/redux.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img height="65px width="65" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<span><b><center></center></b></span> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </tr>
 
 </tbody>
