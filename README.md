@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h5 align="center">Développeur Full-Stack / Mobile / Backend — L!txx</h5>
+<h5 align="center">Développeur Mobile</h5>
 
 ###
 
@@ -48,27 +48,11 @@
 
 ###
 
-<p align="left">- Étudiant en informatique à Cotonou, Bénin, qui construit et déploie de vrais produits en parallèle des études</p>
+<p align="left">- Étudiant en Analyse informatique et Programmation à Cotonou, Bénin.</p>
 
 ###
 
-<p align="left">- Stack principale : mobile (React Native/Expo), web (React/Vite, Next.js), backend (Node.js/Express, Supabase, PostgreSQL/Prisma)</p>
-
-###
-
-<p align="left">- Actuellement en stage académique chez Hoveyii, où je pilote Lotus Business, un écosystème de gestion commerciale pour PME (app POS/inventaire, dashboard admin, site marketing)</p>
-
-###
-
-<p align="left">- Auteur de plusieurs projets perso : ArtisanLink (mise en relation avec des artisans au Bénin), AmalgamOS (app de productivité en Electron), Bros Code (app d'accountability entre potes)</p>
-
-###
-
-<p align="left">- Opère sous la marque L!txx</p>
-
-###
-
-<p align="left">- Toujours en train de bricoler un nouveau projet, front-end ou mobile, souvent testé sur le terrain (marché de Tokpa à Cotonou)</p>
+<p align="left">- Stack principale : Mobile (React Native/Expo), Web (React/Vite, Next.js), Backend (Node.js/Express, Supabase, PostgreSQL/Prisma)</p>
 
 ###
 
