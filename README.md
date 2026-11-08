@@ -1,82 +1,61 @@
-<h2 align="center">Belmonde</h2>
+<h1 align="center">Belmonde</h1>
 
-###
-Salut !
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:belmondefio@gmail.com">
+    <img src="https://shields.io" alt="Email Badge"/>
+  </a>
+  <a href="https://netlify.app" target="_blank">
+    <img src="https://shields.io" alt="Portfolio Badge"/>
+  </a>
+</p>
 
-- Je travaille actuellement sur... l developpement de l'ecosystème [Monitor](https://www.monitor.sarl/)
+---
 
-- J'etudie actuellement sur le language Java
+### A propos de moi
 
-- Comment me contacter... [E-mail](mailto:belmondefio@gmail.com) ou [Profil LinkedIn](www.linkedin.com/in/belmonde-fiodekanhoun-54b5a2360)
+Ingénieur logiciel Junior, j'aime transformer les idées en réalité grâce au code. Passionné par l'utilisation de **JavaScript** et de ses différents frameworks, je m'efforce de créer des expériences utilisateur exceptionnelles. 
 
+* **Passion Mobile :** Je dispose d'environ 2 ans d'expérience avec **React Native** pour le développement d'applications mobiles fluides, ergonomiques et opérationnelles.
+* **Développement Web :** Avec plus de deux ans d'expérience sur les technologies front-end et l'UI/UX, je conçois des sites sur mesure performants.
+* **Actuellement :** Je travaille sur le développement de l'écosystème **[Monitor](https://monitor.sarl)** et j'explore en permanence le vaste univers du web.
+* **Apprentissage :** J'étudie et j'approfondis actuellement mes compétences sur le langage **Java**.
 
- Mon portfolio... [bel.dev](https://kaustubhai.netlify.app/)
+---
 
-J'adore le Mobile. Je vois, j'observe, j'étudie et je développe des applis mobile. Actuellement, j'explore le vaste univers des sites web et j'apprends constamment...
+### Mon Stack Technique
 
-Ingénieur logiciel Junior, j'aime transformer les idées en réalité grâce au code. Je suis passionné par l'utilisation de JavaScript et ces differents framework pour créer des expériences utilisateur exceptionnelles. Avec plus de deux ans d'expérience dans le développement d'applications web utilisant les technologies front-end et UI/UX les plus récentes, je suis un concepteur et développeur motivé, expérimenté dans la création de sites web sur mesure avec ReactJS, JavaScript, HTML5 et CSS3. En parallèle je dispose aussi d'environ 2ans d'expérience avec le React Native pour le developpement d'application Mobile fluide et opérationnelle.Je possède d'excellentes aptitudes à la collaboration et une solide expérience en développement d'applications.
+#### Front-end et Mobile
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" height="28"/>
+  <img src="https://shields.io" alt="CSS3" height="28"/>
+  <img src="https://shields.io" alt="JavaScript" height="28"/>
+  <img src="https://shields.io" alt="React Native" height="28"/>
+  <img src="https://shields.io" alt="ReactJS" height="28"/>
+</p>
 
-<img
-align="left"
-alt="Statistiques GitHub"
-src="https://github-readme-stats.vercel.app/api?username=bel-bg&theme=graywhite&show_icons=true&hide_border=true"
-/>
+#### Back-end, API et Base de données
+<p align="left">
+  <img src="https://shields.io" alt="NodeJS" height="28"/>
+  <img src="https://shields.io" alt="MongoDB" height="28"/>
+  <img src="https://shields.io" alt="GraphQL" height="28"/>
+</p>
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=bel-bg&hide=java&layout=compact)
+#### Autres Langages
+<p align="left">
+  <img src="https://shields.io" alt="Java" height="28"/>
+  <img src="https://shields.io" alt="C++" height="28"/>
+</p>
 
-<br>
-<table>
-<tbody>
+---
 
-<tr>
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-</td>
+### Statistiques GitHub
 
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</td>
+<p align="center">
+  <img align="center" src="https://vercel.app" alt="Statistiques de Belmonde" height="150" />
+  <img align="center" src="https://vercel.app" alt="Langages les plus utilisés" height="150" />
+</p>
 
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/java.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</tr>
-
-</tbody>
-</table
+<br />
