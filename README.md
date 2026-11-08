@@ -1,15 +1,9 @@
 <h1 align="center">Belmonde</h1>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:belmondefio@gmail.com">
-    <img src="https://shields.io" alt="Email Badge"/>
-  </a>
-  <a href="https://netlify.app" target="_blank">
-    <img src="https://shields.io" alt="Portfolio Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/belmonde-fiodekanhoun-54b5a2360" target="_blank">Mon Profil LinkedIn</a> | 
+  <a href="mailto:belmondefio@gmail.com">Me contacter par Email</a> | 
+  <a href="https://kaustubhai.netlify.app/" target="_blank">Mon Portfolio</a>
 </p>
 
 ---
@@ -20,42 +14,61 @@ Ingénieur logiciel Junior, j'aime transformer les idées en réalité grâce au
 
 * **Passion Mobile :** Je dispose d'environ 2 ans d'expérience avec **React Native** pour le développement d'applications mobiles fluides, ergonomiques et opérationnelles.
 * **Développement Web :** Avec plus de deux ans d'expérience sur les technologies front-end et l'UI/UX, je conçois des sites sur mesure performants.
-* **Actuellement :** Je travaille sur le développement de l'écosystème **[Monitor](https://monitor.sarl)** et j'explore en permanence le vaste univers du web.
+* **Actuellement :** Je travaille sur le développement de l'écosystème **[Monitor](https://www.monitor.sarl/)** et j'explore en permanence le vaste univers du web.
 * **Apprentissage :** J'étudie et j'approfondis actuellement mes compétences sur le langage **Java**.
 
 ---
 
 ### Mon Stack Technique
 
-#### Front-end et Mobile
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" height="28"/>
-  <img src="https://shields.io" alt="CSS3" height="28"/>
-  <img src="https://shields.io" alt="JavaScript" height="28"/>
-  <img src="https://shields.io" alt="React Native" height="28"/>
-  <img src="https://shields.io" alt="ReactJS" height="28"/>
-</p>
-
-#### Back-end, API et Base de données
-<p align="left">
-  <img src="https://shields.io" alt="NodeJS" height="28"/>
-  <img src="https://shields.io" alt="MongoDB" height="28"/>
-  <img src="https://shields.io" alt="GraphQL" height="28"/>
-</p>
-
-#### Autres Langages
-<p align="left">
-  <img src="https://shields.io" alt="Java" height="28"/>
-  <img src="https://shields.io" alt="C++" height="28"/>
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/><br/>HTML5
+      </td>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/><br/>CSS3
+      </td>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><br/>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/react-native.png" alt="React Native"/><br/>React Native
+      </td>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/fluid/48/node-js.png" alt="NodeJS"/><br/>Node.js
+      </td>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/><br/>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/><br/>Java
+      </td>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-graphql-an-open-source-data-query-and-manipulation-language-for-apis-logo-filled-tal-revivo.png" alt="GraphQL"/><br/>GraphQL
+      </td>
+      <td align="center" width="20%">
+        <img height="50px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/><br/>C++
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### Statistiques GitHub
 
 <p align="center">
-  <img align="center" src="https://vercel.app" alt="Statistiques de Belmonde" height="150" />
-  <img align="center" src="https://vercel.app" alt="Langages les plus utilisés" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bel-bg&show_icons=true&theme=dark" alt="Statistiques de Belmonde" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bel-bg&layout=compact&theme=dark&hide=java" alt="Langages les plus utilisés" />
 </p>
 
 <br />
