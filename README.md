@@ -18,27 +18,38 @@ Actuellement : Je travaille sur le développement de l'écosystème Monitor et j
 
 Apprentissage : J'étudie et j'approfondis actuellement mes compétences sur le langage Java.
 
-Mon Stack Technique
+Ma Stack Technique
 
 <table>
 <tbody>
 <tr>
+<td align="center" width="120">
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/><br/>JavaScript
+</td>
 <td align="center" width="120">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/><br/>HTML5
 </td>
 <td align="center" width="120">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/><br/>CSS3
 </td>
-<td align="center" width="120">
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/><br/>JavaScript
-</td>
 </tr>
 <tr>
+<td align="center" width="120">
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="ReactJS"/><br/>ReactJS
+</td>
 <td align="center" width="120">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native"/><br/>React Native
 </td>
 <td align="center" width="120">
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"/><br/>Flutter
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br/>Node.js
+</td>
+<td align="center" width="120">
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"/><br/>Laravel
 </td>
 <td align="center" width="120">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB"/><br/>MongoDB
@@ -52,7 +63,12 @@ Mon Stack Technique
 <img height="50px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL"/><br/>GraphQL
 </td>
 <td align="center" width="120">
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/><br/>C++
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust"/><br/>Rust
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" alt="Tauri"/><br/>Tauri
 </td>
 </tr>
 </tbody>
